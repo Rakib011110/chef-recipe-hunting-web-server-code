@@ -11,6 +11,11 @@ const chefs = require("./data/data.json")
 app.get('/', (req, res) => {
     res.send('Hello World!')
 })
+app.get("/chefs", (req, res) => {
+    res.send(chefs)
+})
+
+
 
 
 
