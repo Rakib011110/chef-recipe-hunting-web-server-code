@@ -1,0 +1,306 @@
+[
+  {
+    "_id": "1",
+    "chefPicture": "https://static.cordonbleu.edu/Files/MediaFile/62488.jpg",
+    "chefName": "Shawkat Osman",
+    "short_bio": "Chef Shawkat Osman is a well-known chef in Bangladesh, with over 20 years of experience in Bangladeshi cuisine.",
+    "likes": 150,
+    "num_recipes": 10,
+    "experience": 20,
+    "recipes": [
+      {
+        "recipe_name": "Beef Bhuna",
+        "ingredients": ["Beef", "Onion", "Tomato", "Garlic", "Ginger"],
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. \n2. Add garlic and ginger and fry for a minute. \n3. Add tomatoes and fry until the tomatoes are cooked. \n4. Add the beef and fry until browned. \n5. Add water and salt, cover and simmer until the beef is tender. \n6. Serve hot with rice or naan bread.",
+        "rating": 4.5,
+        "picture": "https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-2-720x720.jpg"
+      },
+      {
+        "recipe_name": "Shorshe Bata Chingri",
+        "ingredients": [
+          "Prawns",
+          "Mustard paste",
+          "Garlic",
+          "Green chilli",
+          "Turmeric"
+        ],
+        "cooking_method": "1. Clean and devein the prawns. \n2. In a pan, heat oil and fry the garlic and green chilli. \n3. Add the prawns and fry until pink. \n4. Add the mustard paste, turmeric and salt. \n5. Cook for 2-3 minutes. \n6. Serve hot with steamed rice.",
+        "rating": 4,
+        "picture": "https://www.scratchingcanvas.com/wp-content/uploads/2018/06/Shorshe-Chingri.3.jpg"
+      },
+      {
+        "recipe_name": "Kachkola Bhorta",
+        "ingredients": [
+          "Plantain",
+          "Onion",
+          "Green chilli",
+          "Mustard oil",
+          "Salt"
+        ],
+        "cooking_method": "1. Peel and slice the plantain into small pieces. \n2. Boil the plantain until soft. \n3. Mash the plantain with a fork. \n4. Add chopped onion, green chilli, mustard oil and salt to taste. \n5. Mix well. \n6. Serve with rice.",
+        "rating": 3.5,
+        "picture": "https://www.ajkerpatuakhali.com/media/imgAll/2020April/maxresdefault-2008171225.jpg"
+      }
+    ]
+  },
+
+  {
+    "_id": "2",
+    "chefPicture": "https://thumbs.dreamstime.com/b/female-chef-19271464.jpg",
+    "chefName": "Sonal Gupta",
+    "short_bio": "Award-winning chef and cookbook author specializing in traditional Indian dishes with a modern twist.",
+    "likes": 4500,
+    "num_recipes": 25,
+    "experience": 15,
+    "recipes": [
+      {
+        "recipe_name": "Butter Chicken",
+        "ingredients": [
+          "1 1/2 lbs boneless, skinless chicken thighs",
+          "1/4 cup plain yogurt",
+          "2 tbsp vegetable oil",
+          "1/2 cup butter",
+          "1 onion, diced",
+          "4 cloves garlic, minced",
+          "1 tbsp grated ginger",
+          "1 tsp ground cumin",
+          "1 tsp paprika",
+          "1/2 tsp cayenne pepper",
+          "1/2 tsp salt",
+          "1 cup tomato puree",
+          "1 cup heavy cream",
+          "1/4 cup chopped fresh cilantro"
+        ],
+        "cooking_method": "1. In a large bowl, combine chicken and yogurt. Marinate for at least 30 minutes or up to overnight.\n2. In a large skillet, heat oil over medium-high heat. Add chicken and cook until browned on all sides, about 8 minutes. Remove from skillet and set aside.\n3. In the same skillet, melt butter over medium heat. Add onion and cook until softened, about 5 minutes. Add garlic, ginger, cumin, paprika, cayenne pepper, and salt. Cook for 1 minute.\n4. Add tomato puree and cream. Bring to a simmer and cook for 5 minutes, stirring occasionally.\n5. Add chicken and any juices to the skillet. Simmer for 10 minutes, stirring occasionally.\n6. Serve hot, garnished with chopped cilantro.",
+        "rating": 4.8,
+        "picture": "https://cravinghomecooked.com/wp-content/uploads/2020/06/butter-chicken-1.jpg"
+      },
+      {
+        "recipe_name": "Palak Paneer",
+        "ingredients": [
+          "1 lb paneer, cut into 1-inch cubes",
+          "2 tbsp ghee",
+          "1 onion, finely chopped",
+          "2 cloves garlic, minced",
+          "1 tbsp grated ginger",
+          "1 tsp ground cumin",
+          "1 tsp ground coriander",
+          "1/2 tsp turmeric",
+          "1/2 tsp cayenne pepper",
+          "1/2 tsp salt",
+          "1/2 cup water",
+          "10 oz fresh spinach",
+          "1/4 cup heavy cream"
+        ],
+        "cooking_method": "1. In a large skillet, heat ghee over medium heat. Add onion and cook until softened, about 5 minutes.\n2. Add garlic, ginger, cumin, coriander, turmeric, cayenne pepper, and salt. Cook for 1 minute.\n3. Add water and bring to a simmer.\n4. Add spinach and cook until wilted, about 2 minutes.\n5. Transfer mixture to a blender and puree until smooth.\n6. Return mixture to skillet and add paneer. Simmer for 5 minutes, stirring occasionally.\n7. Stir in cream and cook for 1 minute.\n8. Serve hot with naan or rice.",
+        "rating": 4.5,
+        "picture": "https://static.toiimg.com/thumb/53093667.cms?width=1200&height=900"
+      },
+
+      {
+        "recipe_name": "Shorshe Bata Chingri",
+        "ingredients": [
+          "Prawns",
+          "Mustard paste",
+          "Garlic",
+          "Green chilli",
+          "Turmeric"
+        ],
+        "cooking_method": "1. Clean and devein the prawns. \n2. In a pan, heat oil and fry the garlic and green chilli. \n3. Add the prawns and fry until pink. \n4. Add the mustard paste, turmeric and salt. \n5. Cook for 2-3 minutes. \n6. Serve hot with steamed rice.",
+        "rating": 4,
+        "picture": "https://www.scratchingcanvas.com/wp-content/uploads/2018/06/Shorshe-Chingri.3.jpg"
+      }
+    ]
+  },
+
+  {
+    "_id": "3",
+    "chefPicture": "https://media.istockphoto.com/id/137049093/photo/female-chef.jpg?s=612x612&w=0&k=20&c=cn8cwiWC2nncWN8OK9f4kignvbMbETPpHJU1uujNg8c=",
+    "chefName": "Anjum Anand",
+    "short_bio": "Anjum Anand is a British Indian food writer and TV chef. She is known for her healthy, light and modern approach .",
+    "likes": 1234,
+    "num_recipes": 50,
+    "years_experience": 15,
+    "recipes": [
+      {
+        "recipe_name": "Chicken Tikka Masala",
+        "ingredients": [
+          "boneless chicken",
+          "yogurt",
+          "ginger",
+          "garlic",
+          "spices"
+        ],
+        "cooking_method": "grilling, sautéing, simmering",
+        "rating": 4.5,
+        "picture": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG"
+      },
+      {
+        "recipe_name": "Palak Paneer",
+        "ingredients": ["spinach", "paneer", "onion", "tomato", "spices"],
+        "cooking_method": "blanching, sautéing, simmering",
+        "rating": 4.2,
+        "picture": "https://www.seriouseats.com/thmb/lhYY8CqBJoDwxj57KFAiY9pORhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG"
+      },
+      {
+        "recipe_name": "Chole Bhature",
+        "ingredients": ["chickpeas", "flour", "spices", "yogurt", "pickle"],
+        "cooking_method": "soaking, boiling, frying",
+        "rating": 4.0,
+        "picture": "https://static.toiimg.com/photo/53314156.cms"
+      }
+    ]
+  },
+
+  {
+    "_id": "4",
+    "chefPicture": "https://st.depositphotos.com/1246892/2449/i/600/depositphotos_24496199-stock-photo-a-male-chef.jpg",
+    "chefName": "Rahul Sharma",
+    "short_bio": "Rahul Sharma is a renowned chef specializing in Indian cuisine. He has over 15 years of experience and has worked in some of the best ",
+    "likes": 231,
+    "num_recipes": 27,
+    "years_exp": 15,
+    "recipes": [
+      {
+        "recipe_name": "Butter Chicken",
+        "ingredients": [
+          "500g chicken",
+          "1 cup plain yoghurt",
+          "1 tablespoon ginger paste",
+          "1 tablespoon garlic paste",
+          "1 teaspoon garam masala",
+          "1 teaspoon turmeric",
+          "1 teaspoon chilli powder",
+          "1 teaspoon cumin",
+          "1 teaspoon coriander",
+          "1/2 cup cream",
+          "4 tablespoons butter",
+          "1 onion, chopped",
+          "2 tomatoes, chopped",
+          "salt",
+          "oil"
+        ],
+        "cooking_method": "1. In a bowl, mix the chicken, yoghurt, ginger paste, garlic paste, garam masala, turmeric, chilli powder, cumin, and coriander. Let it marinate for at least an hour. 2. In a pan, heat some oil and add the chicken mixture. Cook until the chicken is browned on all sides. Remove from pan and set aside. 3. In the same pan, add the onion and cook until softened. Add the tomatoes and cook until they are mushy. 4. Add the chicken back to the pan and mix well. Add the cream and let it cook for a few minutes. 5. Add salt to taste. 6. Serve hot with rice or naan.",
+        "rating": 4.7,
+        "picture": "https://bellyfull.net/wp-content/uploads/2022/08/Butter-Chicken-blog-1.jpg"
+      },
+      {
+        "recipe_name": "Palak Paneer",
+        "ingredients": [
+          "200g paneer, cubed",
+          "2 bunches of spinach",
+          "1 onion, chopped",
+          "1 tablespoon ginger paste",
+          "1 tablespoon garlic paste",
+          "1 teaspoon garam masala",
+          "1 teaspoon cumin",
+          "1 teaspoon coriander",
+          "1 teaspoon turmeric",
+          "1/2 cup cream",
+          "4 tablespoons butter",
+          "oil",
+          "salt"
+        ],
+        "cooking_method": "1. Blanch the spinach in boiling water for 30 seconds. Remove and put into a bowl of ice water. Drain and puree the spinach. 2. In a pan, heat some oil and add the onion, ginger paste, and garlic paste. Cook until the onions are softened. 3. Add the garam masala, cumin, coriander, and turmeric. Mix well. 4. Add the paneer and spinach puree. Cook for a few minutes. 5. Add the cream and cook until the mixture thickens. 6. Add salt to taste. 7. Serve hot with rice or naan.",
+        "rating": 4.5,
+        "picture": "https://myvegetarianfamily.com/wp-content/uploads/2022/12/Vegan-Palak-Paneer-with-Tofu-My-Vegetarian-Family-veganpalakpaneer-incrediblyindian.jpg"
+      },
+      {
+        "recipe_name": "Chicken Tikka Masala",
+        "ingredients": [
+          "boneless chicken",
+          "yogurt",
+          "ginger",
+          "garlic",
+          "spices"
+        ],
+        "cooking_method": "grilling, sautéing, simmering",
+        "rating": 4.5,
+        "picture": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG"
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "chefPicture": "https://media.istockphoto.com/id/1071183342/photo/master-chef.jpg?s=612x612&w=0&k=20&c=XxdWXKik2u1tEjgvHDquI7qX0QP5GZSSsNesw9WsJ6Y=",
+    "chefName": "Samantha Lee",
+    "short_bio": "Samantha Lee is a talented chef who specializes in Japanese cuisine. She has over 10 years of experience in creating authentic Japanese dishes using traditional techniques and ingredients. Her love for Japanese ",
+    "likes": 1500,
+    "number_of_recipes": 20,
+    "years_of_experience": 10,
+    "recipes": [
+      {
+        "recipe_name": "Sushi Rolls",
+        "ingredients": [
+          "sushi rice",
+          "nori sheets",
+          "tuna",
+          "avocado",
+          "cucumber"
+        ],
+        "cooking_method": "1. Prepare sushi rice according to package directions. 2. Place a sheet of nori on a sushi mat. 3. Spread the sushi rice over the nori, leaving a 1-inch border at the top. 4. Arrange the tuna, avocado, and cucumber in a line in the center of the rice. 5. Roll up the sushi tightly using the sushi mat. 6. Cut the sushi into bite-size pieces.",
+        "rating": 4.5,
+        "picture": "https://cdn.shopify.com/s/files/1/0353/5621/articles/JAPANESERECIPES6474.jpg?v=1612466978"
+      },
+      {
+        "recipe_name": "Tempura",
+        "ingredients": ["shrimp", "flour", "cornstarch", "egg", "ice water"],
+        "cooking_method": "1. Mix the flour, cornstarch, and egg in a bowl. 2. Slowly add ice water while stirring until a smooth batter forms. 3. Dip the shrimp into the batter. 4. Heat oil in a deep frying pan. 5. Fry the shrimp until golden brown. 6. Serve hot with dipping sauce.",
+        "rating": 4.2,
+        "picture": "https://www.justonecookbook.com/wp-content/uploads/2020/03/Tempura-3161-I.jpg"
+      },
+      {
+        "recipe_name": "Ramen Noodles",
+        "ingredients": [
+          "ramen noodles",
+          "pork belly",
+          "eggs",
+          "green onions",
+          "bean sprouts"
+        ],
+        "cooking_method": "1. Cook the ramen noodles according to package directions. 2. Boil the pork belly until cooked through. 3. Soft boil the eggs. 4. Chop the green onions. 5. Assemble the ramen bowl by placing the cooked noodles, pork belly, eggs, green onions, and bean sprouts in a bowl. 6. Pour hot broth over the top and serve.",
+        "rating": 4.7,
+        "picture": "https://www.modernfarmhouseeats.com/wp-content/uploads/2021/03/chili-lime-shrimp-ramen-2-scaled.jpg"
+      }
+    ]
+  },
+
+  {
+    "_id": "6",
+    "chefPicture": "https://images.delightedcooking.com/linecook.jpg",
+    "chefName": "Ravi Shankar",
+    "short_bio": "Ravi Shankar is a renowned Indian chef with over 20 years of experience in cooking authentic Indian cuisine. He specializes in creating dishes that combine traditional Indian flavors with a modern twist.",
+    "likes": 1500,
+    "num_recipes": 50,
+    "years_experience": 20,
+    "recipes": [
+      {
+        "recipe_name": "Butter Chicken",
+        "ingredients": ["chicken", "yogurt", "tomato paste", "ghee", "spices"],
+        "cooking_method": "1. Marinate chicken in yogurt and spices. \n2. Grill chicken until cooked. \n3. In a separate pan, cook tomato paste with spices and ghee. \n4. Add grilled chicken to tomato mixture. \n5. Serve with rice or naan.",
+        "rating": 4.8,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrLBVEe6r1T0g-ZwoAeKUzAzQn5ot126jyKg&usqp=CAU"
+      },
+      {
+        "recipe_name": "Palak Paneer",
+        "ingredients": ["spinach", "paneer", "onion", "tomato", "spices"],
+        "cooking_method": "1. Blanch spinach and blend into a puree. \n2. Saute onions and tomatoes in a pan. \n3. Add spices and spinach puree to the pan. \n4. Add paneer and simmer for a few minutes. \n5. Serve with rice or naan.",
+        "rating": 4.5,
+        "picture": "https://www.indianveggiedelight.com/wp-content/uploads/2017/10/palak-paneer-recipe-featured.jpg"
+      },
+      {
+        "recipe_name": "Gulab Jamun",
+        "ingredients": [
+          "milk powder",
+          "flour",
+          "sugar",
+          "cardamom powder",
+          "water"
+        ],
+        "cooking_method": "1. Mix milk powder, flour, and cardamom powder. \n2. Add water to the mixture to form a dough. \n3. Roll the dough into small balls. \n4. Fry the balls until golden brown. \n5. In a separate pan, heat sugar and water to make a syrup. \n6. Add the fried balls to the syrup and let soak. \n7. Serve warm.",
+        "rating": 4.2,
+        "picture": "https://www.cookwithnabeela.com/wp-content/uploads/2023/03/GulanJamun.webp"
+      }
+    ]
+  }
+]
